@@ -1,4 +1,4 @@
-baseURL = 'https://RazRaz94.io/LonerBlog/'
+baseURL = 'https://razraz94.github.io/LonerBlog/'
 languageCode = 'en-us'
 title = 'Inside Loner Mind'
 theme = "github-style" 
