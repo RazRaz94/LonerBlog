@@ -10,9 +10,9 @@ theme = "github-style"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
-  favicon = "https://razraz94.github.io/LonerBlog/images/images/favicon-scroll.png"
-  avatar = "https://razraz94.github.io/LonerBlog/images/images/avatar.png"
-  headerIcon = "https://razraz94.github.io/LonerBlog/images/images/kianamark2.png"
+  favicon = "https://razraz94.github.io/LonerBlog/images/favicon-scroll.png"
+  avatar = "https://razraz94.github.io/LonerBlog/images/avatar.png"
+  headerIcon = "https://razraz94.github.io/LonerBlog/images/kianamark2.png"
   location = "Doha 🇶🇦"
   userStatusEmoji = "💽"
   enableGitalk = false
@@ -39,12 +39,12 @@ theme = "github-style"
   [[params.links]]
     title = "YouTube"
     href = "https://www.youtube.com/@LonerHero"
-    icon = "https://razraz94.github.io/LonerBlog/images/images/youtube.png"
+    icon = "https://razraz94.github.io/LonerBlog/images/youtube.png"
 
   [[params.links]]
     title = "Twitch"
     href = "https://www.twitch.tv/lonerhero"
-    icon = "https://razraz94.github.io/LonerBlog/images/images/twitch.png"
+    icon = "https://razraz94.github.io/LonerBlog/images/twitch.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
