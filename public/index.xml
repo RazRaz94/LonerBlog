@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inside Loner Mind</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Inside Loner Mind</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 20:44:44 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It is Live</title>
+      <link>http://localhost:1313/post/blog-is-live/</link>
+      <pubDate>Fri, 25 Oct 2024 18:59:07 +0300</pubDate>
+      <guid>http://localhost:1313/post/blog-is-live/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been so long and I guess that I finally managed to start this.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>&lt;p&gt;This blog focuses on self-improvement activities and analysis that is related to my hobbies. You will find things like:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Fighting Games activities depending on the sets&#xD;&#xA;Any tournament performance&#xD;&#xA;Speedrun statistics and analysis related to my latest personal best&#xD;&#xA;Any video game information that I find it interesting to talk about&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;It&amp;rsquo;s also possible that I will be doing my own profession posting of web development depending on the project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Inside Loner Mind</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Inside Loner Mind</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 20:44:44 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It is Live</title>
+      <link>http://localhost:1313/post/blog-is-live/</link>
+      <pubDate>Fri, 25 Oct 2024 18:59:07 +0300</pubDate>
+      <guid>http://localhost:1313/post/blog-is-live/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been so long and I guess that I finally managed to start this.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

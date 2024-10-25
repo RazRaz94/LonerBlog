@@ -1,0 +1,54 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Inside Loner Mind'
+theme = "github-style" 
+
+[params]
+  author = "LonerHero"
+  description = "Every hero has a weakness"
+  url = "https://dmc.wiki"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/favicon-scroll.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/kianamark2.png"
+  location = "Doha 🇶🇦"
+  userStatusEmoji = "💽"
+  enableGitalk = false
+  enableSearch = true
+
+  [params.gitalk]
+    clientID = "Your client ID" # Your client ID
+    clientSecret = "Your client secret" # Your client secret
+    repo = "LuvSia" # 您的博客的github地址Repository name，例如：xxxx.github.io
+    owner = "ventusoon" # 您的GitHub ID
+    admin = "ventusoon" # 您的GitHub ID
+    id = "location.pathname" # 文章页面的链接地址就是ID
+    labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
+    perPage = 15 # Pagination size, with maximum 100.
+    pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
+    createIssueManually = true # 设置为true，如果是管理员登录，会自动创建issue，如果是false，需要管理员手动添加第一个评论(issue)
+    distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
+    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+  [[params.links]]
+    title = "Blue Sky"
+    href = "https://bsky.app/profile/lonerhero.bsky.social"
+    icon = "/images/bluesky.png"
+
+  [[params.links]]
+    title = "YouTube"
+    href = "https://www.youtube.com/@LonerHero"
+    icon = "/images/youtube.png"
+
+  [[params.links]]
+    title = "Twitch"
+    href = "https://www.twitch.tv/lonerhero"
+    icon = "/images/twitch.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "UA-123456-789"

@@ -1,0 +1,117 @@
+code .k {
+  color: var(--color-prettylights-syntax-keyword);
+}
+
+code .nf {
+  color: var(--color-prettylights-syntax-entity);
+}
+
+code .o {
+  color: var(--color-prettylights-syntax-constant);
+}
+
+code .bp {
+  color: var(--color-prettylights-syntax-constant);
+}
+
+code .ow {
+  color: var(--color-prettylights-syntax-constant);
+}
+
+code .s2 {
+  color: var(--color-prettylights-syntax-string);
+}
+
+code .nb {
+  color: var(--color-prettylights-syntax-entity);
+}
+
+code .kn {
+  color: var(--color-prettylights-syntax-keyword);
+}
+
+code .nc {
+  color: var(--color-prettylights-syntax-variable);
+}
+
+code .c1 {
+  color: var(--color-prettylights-syntax-comment);
+}
+
+code .kr {
+  color: var(--color-prettylights-syntax-keyword);
+}
+
+code .s1 {
+  color: var(--color-prettylights-syntax-string);
+}
+
+code .s {
+  color: var(--color-prettylights-syntax-string);
+}
+
+/*** CUSTOM ***/
+.application-main{
+  background-image:url(https://wallpapers.com/images/hd/old-paper-texture-1680-x-1050-background-84a3yveno6ec2cmy.jpg) !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.avatar{
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.bg-white{
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.mt-4{
+  text-shadow: black 1px 0 10px;
+}
+.Box-body, .graph-before-activity-overview{
+  background-color: rgb(0, 0, 0, 0.7) !important;
+}
+
+.source, .h-card{
+  padding:5%;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+
+.Header{
+  background-color:#c1475c;
+}
+
+
+
+:root {
+  scroll-behavior: smooth;
+}
+
+
+.stt {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background: rgb(128, 128, 255) url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3Cpath fill='currentColor' d='M352 352c-8.188 0-16.38-3.125-22.62-9.375L192 205.3l-137.4 137.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l160-160c12.5-12.5 32.75-12.5 45.25 0l160 160c12.5 12.5 12.5 32.75 0 45.25C368.4 348.9 360.2 352 352 352z'%3E%3C/path%3E%3C/svg%3E") center no-repeat;
+  box-shadow: 0 0.25rem 0.5rem 0 gray;
+  opacity: 0.7;
+}
+
+.stt:hover {
+  opacity: 0.8;
+}
+
+.stt:focus {
+  opacity: 0.9;
+}
+
+.stt:active {
+  opacity: 1;
+}
+
