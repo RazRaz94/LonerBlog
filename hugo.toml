@@ -34,7 +34,7 @@ theme = "github-style"
   [[params.links]]
     title = "Blue Sky"
     href = "https://bsky.app/profile/lonerhero.bsky.social"
-    icon = "/images/bluesky.png"
+    icon = "https://razraz94.github.io/LonerBlog/images/bluesky.png"
 
   [[params.links]]
     title = "YouTube"
