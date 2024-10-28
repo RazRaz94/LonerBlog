@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+
+<body class="env-production emoji-size-boost page-responsive page-profile">
+  {{ partial "header" . }}
+  {{ partial "home.html" . }}
+    {{ range .Data.Pages }}
+    {{ end }}
+  {{ partial "footer.html" . }}
+  <!-- Google Analytics -->
+  {{ if eq (getenv "HUGO_ENV") "production"}}
+    {{ template "_internal/google_analytics.html" . }}
+  {{ end }}
+</body>
+
+</html>
