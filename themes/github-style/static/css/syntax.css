@@ -115,3 +115,14 @@ code .s {
   opacity: 1;
 }
 
+/***** YEAR CHANGE *********/
+
+.js-profile-timeline-year-list{
+  margin-left: 100px !important;  
+}
+
+#year-list ul{
+  position:absolute;
+  top:25px;
+  left:0;
+}

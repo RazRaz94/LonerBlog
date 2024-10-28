@@ -1,7 +1,8 @@
 baseURL = 'https://razraz94.github.io/LonerBlog/'
 languageCode = 'en-us'
 title = 'Inside Loner Mind'
-theme = "github-style" 
+theme = "github-style"
+capitalizeListTitles = false
 
 [params]
   author = "LonerHero"
@@ -52,3 +53,12 @@ theme = "github-style"
 [services]
   [services.googleAnalytics]
     ID = "UA-123456-789"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+  [[params.menu]]
+      before = false
+      label = "Sections"
+      link = "categories/"
