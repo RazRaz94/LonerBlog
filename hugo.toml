@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Inside Loner Mind'
 theme = "github-style"
 capitalizeListTitles = false
+disablePathToLower = true
 
 [params]
   author = "LonerHero"
