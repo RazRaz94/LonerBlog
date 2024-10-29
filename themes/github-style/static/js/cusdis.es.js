@@ -15,7 +15,7 @@ const makeIframeContent = (target) => {
     <\/script>
     <style>
       :root {
-        color-scheme: light;
+        color-scheme: dark;
       }
     </style>
   </head>
