@@ -1,9 +1,10 @@
 {{ if .Site.Params.enableGitalk }}
+<link rel="stylesheet" href='{{ "css/gitalk.css" | absURL }}'>
 <!-- Comments by Cusdis -->
 <h4>Comments:</h4>
 <div id="cusdis_thread" data-host="https://cusdis.com"
   data-app-id="658f3789-dcf0-4c2f-8df0-06bc09e09bc5"
   data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
   data-page-title="{{ .Title }}"></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<script async defer src='{{ "js/cusdis.es.js" | absURL }}'></script>
 {{ end }}
