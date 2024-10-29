@@ -17,7 +17,7 @@ disablePathToLower = true
   headerIcon = "https://razraz94.github.io/LonerBlog/images/kianamark2.png"
   location = "Doha 🇶🇦"
   userStatusEmoji = "💽"
-  enableGitalk = false
+  enableGitalk = true
   enableSearch = true
 
   [params.gitalk]
