@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Inside Loner Mind</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Inside Loner Mind</description>
+    <title>posts on Inside Loner Mind</title>
+    <link>http://localhost:1313/LonerBlog/post/</link>
+    <description>Recent content in posts on Inside Loner Mind</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2024 20:44:44 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 01:18:26 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/LonerBlog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The roughness of PS2 runs</title>
+      <link>http://localhost:1313/LonerBlog/post/PS2-Roughness/</link>
+      <pubDate>Mon, 28 Oct 2024 19:30:07 +0300</pubDate>
+      <guid>http://localhost:1313/LonerBlog/post/PS2-Roughness/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Despite the huge library, it is always a struggle to overcome its speedrun challenges. PS2 requires heavy investment to experience the best version of some games. Seeing all of this makes our heads hurt or just come to a good conclusion as to why speedrunning back then was probably very expensive compared to now since the current generation has fair competition on PC due have the Load Time Removal support.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
     <item>
       <title>It is Live</title>
-      <link>http://localhost:1313/post/blog-is-live/</link>
+      <link>http://localhost:1313/LonerBlog/post/Blog-is-live/</link>
       <pubDate>Fri, 25 Oct 2024 18:59:07 +0300</pubDate>
-      <guid>http://localhost:1313/post/blog-is-live/</guid>
+      <guid>http://localhost:1313/LonerBlog/post/Blog-is-live/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been so long and I guess that I finally managed to start this.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
