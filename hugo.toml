@@ -9,6 +9,7 @@ disablePathToLower = true
   author = "LonerHero"
   description = "Every hero has a weakness"
   url = "https://dmc.wiki"
+  email = "lonerherotwitch@outlook.com"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
@@ -47,6 +48,11 @@ disablePathToLower = true
     title = "Twitch"
     href = "https://www.twitch.tv/lonerhero"
     icon = "https://razraz94.github.io/LonerBlog/images/twitch.png"
+  
+  [[params.links]]
+    title = "Koi-Fi"
+    href = "https://ko-fi.com/lonerhero"
+    icon = "https://razraz94.github.io/LonerBlog/images/kofi.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
