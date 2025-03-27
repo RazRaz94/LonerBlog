@@ -24,7 +24,7 @@ Of course these efforts will not only refine my skills but also boost my confide
 
 Clearly, this is the primary focus at the moment, brusing aside my life progress. I do not only speedrun but I also try to improve fighting games with TEKKEN being my main game. Season 1 is ending soon and the highest progress I reached is [getting close to Tekken God Rank](https://razraz94.github.io/LonerBlog/post/Life-and-Games/images/Junka.jpg)
 
-The constantly issue that I face is those days when I struggle to give my all or feel lazy. This significantly impacts my consistency. I believe the main reason for this is that I tend to focus on reading my opponents rather than concentrating on the situation, the punishments, and the matchups. Let's hope that we will improve a lot by the time season 2 drops.
+The problems that I keep facing is the days when I struggle to give my all or feel lazy. This significantly impacts my consistency. I believe the main reason for this is that I tend to focus on reading my opponents rather than concentrating on the situation, the punishments, and the matchups. Let's hope that we will improve a lot by the time season 2 drops.
 
 Season 2 [first impression is not looking good](https://www.youtube.com/watch?v=mwfOye9X_uw). The fan's reaction of Season 2 reflects a mix of surprise and disappointment, as many expected a stronger defense. Instead, characters have demonstrated notable improvements in offensive. This led to fans feeling that the developers strayed from their inital focus. This resulted in frustration yet I see it as this seems made with the intent they're nerfing something. I still can't blame them because it was just a bad presentation of the information and no one should ever do this. 
 
