@@ -17,7 +17,7 @@ Luckily, Metal Gear community has wealth of information available on their [Wiki
 
 ## It may look like a breeze but the level of stress is undeniable 
 
-Like many speedruns, many would say that this game is easy to pick up and run. Although, once you dive into the gameplay, the unpredictable behavior of the AI can make it quite frustrating to adapt. Metal Gear Rising stands out as one of the few movement-oriented games in its genre, which is why [NG+ is the most popular](https://speeddemosarchive.com/MetalGearRising.html). To provide some example and emphasize this 3 month of endeavor is Metal Gear Ray 1:
+Like many speedruns, many would say that this game is easy to pick up and run. Although, once you dive into the gameplay, the unpredictable behavior of the AI can make it quite frustrating to adapt. Metal Gear Rising stands out as one of the few movement-oriented games in its genre, which is why [NG+ is the most popular](https://speeddemosarchive.com/MetalGearRising.html). To provide some example and emphasize this 3 month of endeavor:
 
 - Metal Gear Ray 1 is your major gate keeper because you have to pray that it gives you headbutt charge more often. You block them and counter attack for 20% and Light attack whenever possible.
 - Monsoon unpredictable flowchart. Each attack has the capability of leading into every other attack that exists + itself. Adjusting his HP into certain point twice to skip the military vehicles throws is one of the most frustrating part of the rng. Usually for each attempt you can either lose a whole attempt for new PB or just have a large chunk of time save in that fight alone.
