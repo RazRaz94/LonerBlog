@@ -8,7 +8,7 @@ tags = ['Personal']
 > Today was not the news that I wanted to wake up. Yet, it still happened.
 <!--more-->
 
-(https://razraz94.github.io/LonerBlog/post/thank-you-itagaki/images/itagaki.png)
+{{< figure src=[/thank-you-itagaki/images/itagaki.png >}}
 
 His game and influence had major impact when I was young. On my delusional age, I never really understood him and thought he was not a good guy till I played his games and understood him better.
 
