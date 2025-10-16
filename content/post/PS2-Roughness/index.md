@@ -14,7 +14,7 @@ Everyone knows that value of the hidden gem makes us frustrated since corporate 
 
 ``Would you want to risk for a Slim or Fat ?``
 
-Unless you own the final slim model **(SCPH-90000)**, the earlier models were bad because of the design choice on the ribbon cable since it bends in a manner that it can touch the disc. Consequently, it will damage the disc with a circular scratch. You can see what  **(SCPH-77004)** has done to my [JP Lament of Innocence copy](https://razraz94.github.io/LonerBlog/post/ps2-roughness/images/scratch.jpg).
+Unless you own the final slim model **(SCPH-90000)**, the earlier models were bad because of the design choice on the ribbon cable since it bends in a manner that it can touch the disc. Consequently, it will damage the disc with a circular scratch. You can see what  **(SCPH-77004)** has done to my [JP Lament of Innocence copy](https://raw.githubusercontent.com/RazRaz94/LonerBlog/refs/heads/main/content/post/PS2-Roughness/images/scratch.jpg).
 
 There are plenty of ways to fix this. Such as an elastic that ties it to the metal frame at the end of the trajectory of the optical drive, so you can make the ribbon stay more extended than its normal height. However, it requires you to open up the console and such.
 
