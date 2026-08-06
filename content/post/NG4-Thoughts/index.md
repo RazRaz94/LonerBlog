@@ -28,7 +28,7 @@ What made Ninja Gaiden (2004) so good is the emphasis on player's agency and fre
 
 ## Meaningful Upgrades
 
-I was always under impression that the moveset were streamlined. Because, Ryu no longer has multiple weapons or string extensions as Azure Dragon. Therefore, this was done to avoid overwhelming new players.
+I was always under impression that the moveset were streamlined. Because, Ryu no longer has multiple weapons or string extensions such as Windmill Slash or Fiend's Bane Kick. Therefore, this was done to avoid overwhelming new players.
 
 It's hard to differentiate with each weapon's expression with it's damage or impact value. Even if you have grounded jump cancels that gives you so much freedom.
 
@@ -62,7 +62,7 @@ However, it has the same backlash as Devil May Cry 4. Once Ryu's campaign begins
 
 This also affects the boss lineup. Although the individual fights are enjoyable, several bosses are revisited during Ryu's campaign. Seeing them again diminishes the excitement that comes with encountering a completely new challenge. Rather than ending the game with a series of memorable, fresh encounters, the second half leans too heavily on familiar content.
 
-This criticism is more about the game's structure than the bosses themselves. The reliance on revisiting earlier stages and encounters—not the bosses themselves—that prevents the experience from reaching the big heights.
+This criticism is more about the game's structure than the bosses themselves. The reliance on revisiting earlier stages prevents the experience from reaching the big heights.
 
 
 ## Conclusion
