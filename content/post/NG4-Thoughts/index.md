@@ -5,7 +5,7 @@ draft = false
 categories = ['Reviews']
 tags = ['Games']
 +++
-> Although, the overall package of the game is good. The game's design philosophy didn't align with what I was expecting. This is especially true of the main campaign, which seemed to aim for a sense of adversity and challenge but instead we got DMC4’s homework copy instead. It makes a strong first impression, but as you progress, you're left wanting more.
+> Although, the overall package of the game is good. The game's design philosophy didn't align with what I was expecting. This is especially true of the main campaign, which seemed to aim for a sense of adversity and challenge but instead we got DMC4’s homework copy. It makes a strong first impression, but as you progress, you're left wanting more.
 <!--more-->
 
 ## Understanding the philosophy
