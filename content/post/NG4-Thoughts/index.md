@@ -1,6 +1,6 @@
 +++
 title = 'Ninja Gaiden 4 is a great game...but'
-date = 2026-08-07T23:55:07+03:00
+date = 2026-08-07T20:55:07+03:00
 draft = false
 categories = ['Reviews']
 tags = ['Games']
