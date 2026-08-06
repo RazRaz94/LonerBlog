@@ -1,5 +1,5 @@
 +++
-title = 'Ninja Gaiden 4 Gripes'
+title = 'Ninja Gaiden 4 Thoughts and Gripes'
 date = 2026-08-06T20:55:07+03:00
 draft = false
 categories = ['Reviews']
@@ -34,6 +34,8 @@ It's hard to differentiate with each weapon's expression with it's damage or imp
 
 There are moves that lack meaningful purpose such as Yakumo's 360 heavy attack with the dual sword. The Blood Raven / Gleam Gauge is consumed very quickly by weapons like Magatsuhi (Staff/Hammer), yet even a perfectly timed charge offers little payoff. It feels like these mechanics should reward the player with stronger effects, such as an instant delimbed enemy or another high-impact benefit, but instead the reward is underwhelming.
 
+{{< figure src=https://raw.githubusercontent.com/RazRaz94/LonerBlog/refs/heads/main/content/post/NG4-Thoughts/images/upgrade.png >}}
+
 There are no unique hold-heavy combo strings to unlock, and many of the upgrades feel like simple extensions rather than meaningful additions to your moveset. Unless an upgrade grants something significant—such as enabling Bloodbath kills during Berserker State—it rarely changes how you approach combat.
 
 The weapon upgrade system from previous games already gave a good balance with the way that they handled hp and damage output, moveset..etc. It did not need to be replaced with a skill tree. If the goal was to give players a greater sense of progression, then each unlock should have introduced a genuinely meaningful ability or mechanic.
@@ -53,6 +55,8 @@ That said, I understand the reasoning behind this shift but, I don't think it wa
 ## NG4 Bosses
 
 Realistically, Ninja Gaiden 4 boss roster might be the most consistent since Ninja Gaiden (2004). Most of them are mechanically engaging enough to test player's understanding of the combat system rather than relying on gimmicks.
+
+{{< figure src=https://raw.githubusercontent.com/RazRaz94/LonerBlog/refs/heads/main/content/post/NG4-Thoughts/images/bosses.png >}}
 
 However, it has the same backlash as Devil May Cry 4. Once Ryu's campaign begins, you're sent back through previously visited levels with only minor changes. The sense of déjà vu is hard to ignore. Instead of feeling like a meaningful second perspective, it can come across as reused content that slows the momentum established by the first half of the game.
 
